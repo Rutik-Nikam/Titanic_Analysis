@@ -11,7 +11,12 @@ Data Visualization: Creating charts and graphs to visualize the findings using l
 Survival Analysis: Investigating which factors were significant in determining the survival of passengers.
 
 Libraries Used
+
 Pandas: For data manipulation and analysis.
+
 NumPy: For numerical operations.
+
 Matplotlib: For data visualization.
+
 Seaborn: For statistical data visualization.
+
